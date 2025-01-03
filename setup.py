@@ -9,7 +9,7 @@ setup(
     version='0.0.9',
     install_requires=[
         'pytube>=12.0.0',
-        'numpy<=1.21.5',
+        'numpy>=1.22.4',
         'pytube>=11.0.2',
         'pydub>=0.25.1',
         'SpeechRecognition>=3.8.1',
