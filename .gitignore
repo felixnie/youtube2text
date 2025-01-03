@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Demo
+tests/audio/*
+tests/audio-chunks/*
+tests/text/*
+.bak
